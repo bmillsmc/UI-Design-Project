@@ -69,3 +69,7 @@ div {
     overflow: scroll;
 
 }
+
+.hidden {
+    display: none;
+}
