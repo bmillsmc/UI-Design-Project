@@ -33,3 +33,6 @@ I'm always looking to learn and grow as a developer. I'm not afraid of critisism
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## Notes
+The Monsters tab is not currently populated with information yet. The method to do this will be updated shortly.
