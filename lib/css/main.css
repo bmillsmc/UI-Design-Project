@@ -65,11 +65,25 @@ div {
 
 .tab {
     width: 90%;
+    height: 90%;
     border: 1px solid grey;
     overflow: scroll;
-
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
 }
 
 .hidden {
     display: none;
+}
+
+.accordian-div {
+    border: solid 1px grey;
+    width: 90%;
+    padding: 5%;
+}
+
+.accordian-button {
+
 }
