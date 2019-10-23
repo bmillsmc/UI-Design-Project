@@ -2,7 +2,7 @@
 Using a DND 5th Edition API, this site allows you to browse all of the spells and monsters in the SRD provided by Wizards of the Coast
 
 # Live Location
-The website will be up and running [here](https://bmillsmc.github.io/UI-Design-Project/) once I get Github pages sorted out. For now look to the Getting Started section below to access the site on your computer.
+The website will be up and running [here](https://bmillsmc.github.io/UI-Design-Project/lib/) once I get Github pages sorted out. For now look to the Getting Started section below to access the site on your computer.
 
 ## Getting Started
 
